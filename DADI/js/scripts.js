@@ -10,7 +10,6 @@ console.log('Primo numero', numbOne)
 let newDiv = document.createElement('div');
 
 //do le classi al div
-newDiv.classList.add("my-col");
 newDiv.classList.add("dice");
 
 //aggiungo elemento
@@ -28,7 +27,6 @@ console.log('Secondo numero', numbTwo)
 let newDivTwo = document.createElement('div');
 
 //do le classi al div
-newDivTwo.classList.add("my-col");
 newDivTwo.classList.add("dice");
 
 //aggiungo elemento
